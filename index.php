@@ -1,5 +1,8 @@
 <?php
 	$autoload = function($class){
+		if($class == '\EMail'){
+			include 'phpmailer/PHPMailerAutoload.php';
+		}
 		include($class.'.php');
 	};
 

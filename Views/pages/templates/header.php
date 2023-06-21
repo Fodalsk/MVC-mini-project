@@ -20,4 +20,5 @@
 			?>
 		</nav>
 	</div><!--center-->
+	<hr>
 </header>

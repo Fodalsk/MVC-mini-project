@@ -1,5 +1,5 @@
 <footer>
-	<p>All rights reserved</p>
+	<hr><p>All rights reserved</p>
 </footer>
 
 </body>
